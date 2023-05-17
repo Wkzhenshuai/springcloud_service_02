@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/c_consumer1/c_consumer1.iml" filepath="$PROJECT_DIR$/c_consumer1/c_consumer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_demo_01/e_demo_01.iml" filepath="$PROJECT_DIR$/e_demo_01/e_demo_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_demo_02/e_demo_02.iml" filepath="$PROJECT_DIR$/e_demo_02/e_demo_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p_provider1/p_provider1.iml" filepath="$PROJECT_DIR$/p_provider1/p_provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p_provider2/p_provider2.iml" filepath="$PROJECT_DIR$/p_provider2/p_provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pojo/pojo.iml" filepath="$PROJECT_DIR$/pojo/pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_service_02.iml" filepath="$PROJECT_DIR$/springcloud_service_02.iml" />
+    </modules>
+  </component>
+</project>

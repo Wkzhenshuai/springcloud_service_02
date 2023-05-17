@@ -1,0 +1,10 @@
+server:
+  port: 8003
+eureka:
+  instance:
+    hostname: eureka8003
+  client:
+    service-url:
+      defalultZone: http://localhost:8001/
+    register-with-eureka: false
+    fetch-registry: false
